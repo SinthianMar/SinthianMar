@@ -1,13 +1,13 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=+Hello+Word,+eu+sou+a+Sinthian!+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=993399&center=true&vCenter=true&random=false&width=524&lines=+Hello+World,+eu+sou+a+Sinthian!+" alt="Typing SVG">
   </a>
 </div>
 
 
 ###
 
-<p align="center">Recém-formada em Análise e Desenvolvimento de Sistemas, atualmente estou focada em Java e inglês, cursando um programa na FIAP.<br><br>Estou no início da minha carreira e em busca da minha primeira oportunidade de emprego na área de tecnologia.</p>
+<p align="left"> - Recém-formada em Análise e Desenvolvimento de Sistemas, atualmente estou focada em Java e inglês, cursando um programa na FIAP.<br><br> - Estou no início da minha carreira e em busca da minha primeira oportunidade de emprego na área de tecnologia.</p>
 
 ###
 <picture align="center">
