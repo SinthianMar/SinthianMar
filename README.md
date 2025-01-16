@@ -1,16 +1,25 @@
-<h1 align="center">Hello World!</h1>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=+Hello+Word,+eu+sou+a+Sinthian!+" alt="Typing SVG">
+  </a>
+</div>
+
 
 ###
 
-<p align="left">Eu sou a Sinthian Marques!<br><br>Recém-formada em Análise e Desenvolvimento de Sistemas, atualmente estou focada em Java e inglês, cursando um programa na FIAP.<br><br>Estou no início da minha carreira e em busca da minha primeira oportunidade de emprego na área de tecnologia.</p>
+<p align="center">Recém-formada em Análise e Desenvolvimento de Sistemas, atualmente estou focada em Java e inglês, cursando um programa na FIAP.<br><br>Estou no início da minha carreira e em busca da minha primeira oportunidade de emprego na área de tecnologia.</p>
+
+###
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SinthianMar/SinthianMar output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
 
 ###
 
-<img src="https://raw.githubusercontent.com/SinthianMar/SinthianMar/output/snake.svg" alt="Snake animation" />
-
-###
-
-<p align="left">Mais sobre mim<br><br>Tenho 22 anos e moro no Brasil. Possuo o inglês técnico e experiência com COBOL, VBA, Excel, Análise de Dados e agora estou me aprofundando na linguagem Java.<br><br>Trabalhei como suporte técnico em uma empresa terceirizada que atendia à Microsoft, onde adquiri amplo conhecimento técnico. Além das hard skills mencionadas, desenvolvi diversas soft skills, como comunicação, trabalho em equipe, treinamento de pessoas, organização, pontualidade e senso de urgência.<br><br>No meu tempo livre, estou lendo "Vidas Eternas", um livro de terror do casal de escritores Ed e Lorraine Warren. Adoro fazer anotações e colagens durante a leitura. Também sou fã de filmes de cultura pop e terror, além de amar o rock nacional e internacional.<br><br>Tenho uma história de superação e recomeço que ficarei feliz em compartilhar. Seja muito bem-vindo aos meus projetos!</p>
+<h4 align="left">Mais sobre mim</h4>
+<p align="left">Tenho 22 anos e moro no Brasil. Possuo o inglês técnico e experiência com COBOL, VBA, Excel, Análise de Dados e agora estou me aprofundando na linguagem Java.<br><br>Trabalhei como suporte técnico em uma empresa terceirizada que atendia à Microsoft, onde adquiri amplo conhecimento técnico. Além das hard skills mencionadas, desenvolvi diversas soft skills, como comunicação, trabalho em equipe, treinamento de pessoas, organização, pontualidade e senso de urgência.<br><br>No meu tempo livre, estou lendo "Vidas Eternas", um livro de terror do casal de escritores Ed e Lorraine Warren. Adoro fazer anotações e colagens durante a leitura. Também sou fã de filmes de cultura pop e terror, além de amar o rock nacional e internacional.<br><br>Tenho uma história de superação e recomeço que ficarei feliz em compartilhar. Seja muito bem-vindo aos meus projetos!</p>
 
 ###
 
