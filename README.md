@@ -70,7 +70,7 @@ Durante essa trajetória, aprimorei habilidades como **comunicação**, **resolu
 
 - 🎨 Visito **museus** para explorar novas perspectivas através da arte e da história.
 - 📝 Faço **colagens** e **anotações** para aprofundar meus estudos e reflexões.
-- 📖 Atualmente estou lendo **"Anne de Green Gables"**, celebrando a imaginação e os recomeços.
+- 📖 Atualmente lendo **Anne de Green Gables**, um presente especial do meu pai. Cada página é um sopro de criatividade, inteligência e diversão e claro, a Anne é ruiva!
 - 🎬 Sou fã de **filmes clássicos da cultura pop**, especialmente aqueles que provocam reflexões atemporais.
 
 ---
