@@ -56,7 +56,7 @@ Atualmente, estou aprimorando minha fluência em **inglês** e desenvolvendo nov
 
 ### 📍 Experiência
 
-Tenho **23 anos**, moro na cidade de São Paulo, e trago uma bagagem diversa no mundo da tecnologia e dos processos bancários.
+Tenho **23 anos**, resido na cidade de São Paulo, e trago uma bagagem diversa no mundo da tecnologia e dos processos bancários.
 
 - Atuei como **analista operacional** em uma empresa terceirizada que prestava serviços ao **Banco BTG Pactual**, realizando **abertura de contas**, **análise documental** de pessoas físicas e jurídicas e criando soluções internas, como **sistemas em VBA** para otimizar rotinas e **pastas de evidências de processos bancários**.
 - Trabalhei também no suporte técnico para a **Microsoft**, através de uma terceirizada, realizando **formatação remota**, **atualizações de sistema**, **instalações do Office 2019/365** e **manutenções específicas**, além de desenvolver automações em **VBA** e realizar atividades administrativas como **reembolsos e gestão de licenças**.
