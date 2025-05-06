@@ -6,15 +6,15 @@
 
 ---
 
-### Quem sou eu?
+## 👩‍💻 Quem sou eu?
 
-Olá! Sou **Sinthian Marques**, **recém-formada em Análise e Desenvolvimento de Sistemas**, e estou focada em aprofundar meus conhecimentos em **Java** e **desenvolvimento backend**. Com experiência em **suporte técnico** e **automação de processos**, busco agora minha primeira oportunidade na área de tecnologia.
+Sou Sinthian Marques, formada em Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento backend em Java. Atualmente, estou em busca da minha primeira oportunidade na área de tecnologia.
 
-Atualmente, estou aprimorando minha fluência em **inglês** e desenvolvendo novos projetos, além de estudar intensivamente **Java**.
+Estou aprofundando meus conhecimentos em Java, Spring, SQL e lógica de programação, enquanto desenvolvo projetos próprios e continuo aprimorando minha fluência em inglês.
 
 ---
 
-### 🎯 O que estou aprendendo?
+## 🚀 O que estou aprendendo?
 
 - **Java** (Desenvolvimento Backend com Spring, Hibernate)
 - **SQL** (Consultas e otimizações)
@@ -24,7 +24,7 @@ Atualmente, estou aprimorando minha fluência em **inglês** e desenvolvendo nov
 
 ---
 
-### 🐍 GitHub Contribution Snake
+## 🐍 GitHub Contribution Snake
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
@@ -34,60 +34,46 @@ Atualmente, estou aprimorando minha fluência em **inglês** e desenvolvendo nov
 
 ---
 
-### 🛠️ Tecnologias que uso
+## 🛠️ Tecnologias que uso
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="80" alt="html5 logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="80" alt="css3 logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="80" alt="javascript logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="80" alt="java logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="25" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="80" alt="spring logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="80" alt="mysql logo"  />
   <img width="8" />
 </div>
 
-
 ---
 
-### 📍 Experiência
+## 💼 Experiência prévia
 
-Tenho **23 anos**, resido na cidade de São Paulo, e trago uma bagagem diversa no mundo da tecnologia e dos processos bancários.
-
-- Atuei como **analista operacional** em uma empresa terceirizada que prestava serviços ao **Banco BTG Pactual**, realizando **abertura de contas**, **análise documental** de pessoas físicas e jurídicas e criando soluções internas, como **sistemas em VBA** para otimizar rotinas e **pastas de evidências de processos bancários**.
-- Trabalhei também no suporte técnico para a **Microsoft**, através de uma terceirizada, realizando **formatação remota**, **atualizações de sistema**, **instalações do Office 2019/365** e **manutenções específicas**, além de desenvolver automações em **VBA** e realizar atividades administrativas como **reembolsos e gestão de licenças**.
-- Tenho experiência adicional com **COBOL**, **VBA**, **SQL**, **Excel avançado** e manutenção de sistemas.
+- Suporte técnico para Microsoft (formatação, manutenção, VBA)
+- Análise documental para o BTG Pactual (processos bancários, automações em VBA)
+- Conhecimento adicional em COBOL, SQL e Excel avançado
 
 Durante essa trajetória, aprimorei habilidades como **comunicação**, **resolução de problemas**, **organização**, **trabalho em equipe** e **foco em resultados**, sempre com senso de urgência e paixão por aprender e melhorar.
 
 ---
 
-### 📚 No meu tempo livre
+## 📌 Projetos em andamento
 
-- 🎨 Visito **museus** para explorar novas perspectivas através da arte e da história.
-- 📝 Faço **colagens** e **anotações** para aprofundar meus estudos e reflexões.
-- 📖 Atualmente lendo **Anne de Green Gables**, um presente especial do meu pai. Cada página é um sopro de criatividade, inteligência e diversão e claro, a Anne é ruiva!
-- 🎬 Sou fã de **filmes clássicos da cultura pop**, especialmente aqueles que provocam reflexões atemporais.
-
----
-
-### 🚧 Projetos em andamento
-
-- **Cadastro de Investimentos - Banco Fictício**: Um sistema de cadastro de clientes para um banco fictício, com investimentos em criptomoedas e ações próprias.
-- **Sistema de Automação de Processos**: Desenvolvimento de soluções automatizadas para otimizar processos operacionais utilizando VBA e SQL.
 - **Desafios de Lógica de Programação**: Uma coleção de desafios resolvidos com foco em **Java** e **algoritmos**.
-
+- **Projetos em Java**: Desenvolvendo soluções backend simples, utilizando **Spring Boot** e integração com **banco de dados**, aplicando os conceitos aprendidos durante os estudos.
 ---
 
-### 📞 Como me encontrar
+## 📫 Contato
 
-- **LinkedIn**: [Sinthian Marques](https://www.linkedin.com/in/sinthian-marques-3a2b58292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- **E-mail**: [sinthianmarquesjp@gmail.com](mailto:sinthianmarquesjp@gmail.com)
-
+- [LinkedIn](https://www.linkedin.com/in/sinthianmarques)
+- E-mail: sinthianmarquesjp@gmail.com
+  
 ---
 
-Obrigado por visitar meu perfil! Vamos conectar e compartilhar conhecimentos. 🚀
+Obrigado por visitar meu perfil! Vamos conectar e compartilhar conhecimentos. 
