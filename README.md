@@ -5,10 +5,10 @@
 </div> 
 
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sinthianmarques)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sinthianmar)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
 [![MaratonaJava](https://img.shields.io/badge/-MaratonaJava-blueviolet?style=for-the-badge)](https://github.com/SinthianMar/maratonajava)
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge)](https://github.com/SinthianMar/maratonajava)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge)](https://www.linkedin.com/in/sinthianmarques)
   
 
 
